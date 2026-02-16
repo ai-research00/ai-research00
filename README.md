@@ -7,8 +7,8 @@
 📧 sanosensei36@gmail.com | research.unit734@proton.me  
 
 🔗 GitHub: [734ai](https://github.com/734ai) | [RU-734](https://github.com/RU-734) | [ai-research00](https://github.com/ai-research00)  
+🔗 Kaggle: [muzansano](https://kaggle.com/muzansano)
 🔗 Hugging Face: [unit731](https://huggingface.co/unit731)  
-🔗 Kaggle: [muzansano](https://kaggle.com/muzansano)  
 📝 Blog: [NorthernTribe Insider](https://shorturl.at/8RHHa)
 
 ---
@@ -22,6 +22,7 @@ Self-directed researcher specializing in offensive cybersecurity, adversarial ar
 🔹 Red team operations and nation-state threat emulation  
 🔹 Autonomous system design and multi-agent coordination  
 🔹 Applied cybersecurity research integrating AI and operational realism  
+🔹 Participation and achievements in competitions including **AIMO Math Competition**, **Kaggle ARC-PRIZE**, **Google for Health**, and other international AI challenges  
 
 Focuses on real-world threat conditions, designing and stress-testing intelligent systems for resilience, safety, and operational effectiveness.
 
@@ -35,7 +36,8 @@ Focuses on real-world threat conditions, designing and stress-testing intelligen
 🔹 Conducted advanced research in AI deception, model subversion, and alignment stress testing  
 🔹 Contributed vulnerability findings to elite disclosure programs and private security initiatives  
 🔹 Engineered autonomous reconnaissance and threat analysis frameworks  
-🔹 Published applied research and threat intelligence on **NorthernTribe Insider**
+🔹 Published applied research and threat intelligence on **NorthernTribe Insider**  
+🔹 Achieved notable results in global AI and ML competitions, including **AIMO**, **ARC-PRIZE**, and **Google for Health**  
 
 ---
 
@@ -59,16 +61,6 @@ Focuses on real-world threat conditions, designing and stress-testing intelligen
 
 ---
 
-## Active Projects
-
-🔹 AI Phishing & Social Engineering Detection Platforms  
-🔹 Prompt Injection Evaluation Frameworks  
-🔹 Multi-Model Benchmarking Testbeds  
-🔹 Autonomous Threat Analysis Pipelines  
-🔹 Adversarial LLM Evaluation Systems  
-
----
-
 ## Publications
 
 Research and technical analysis are published through **NorthernTribe Insider**, covering:
@@ -77,6 +69,7 @@ Research and technical analysis are published through **NorthernTribe Insider**,
 🔹 AI weaponization and adversarial use cases  
 🔹 Exploit research and security engineering  
 🔹 Red team and autonomous systems research  
+🔹 Applied AI for global competitions and benchmarking  
 
 ---
 
