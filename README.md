@@ -8,7 +8,7 @@
 
 🔗 GitHub: [734ai](https://github.com/734ai) | [RU-734](https://github.com/RU-734) | [ai-research00](https://github.com/ai-research00)  
 🔗 Kaggle: [muzansano](https://kaggle.com/muzansano)
-🔗 Hugging Face: [unit731](https://huggingface.co/unit731)  
+🔗 Hugging Face: [NorthernTribe-Research](https://huggingface.co/NorthernTribe-Research)  
 📝 Blog: [NorthernTribe Insider](https://shorturl.at/8RHHa)
 
 ---
